@@ -1,0 +1,3 @@
+# TradingStrategyTestingServiceProject
+주식, ETF 등에 대한 트레이딩 전략을 테스트 해주는 웹 서비스 프로젝트....
+2 개월 정도?? 예상
